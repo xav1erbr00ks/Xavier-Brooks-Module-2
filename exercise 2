@@ -1,0 +1,21 @@
+void main() {
+  var winnerlist = [
+    "2012: FNB Banking App",
+    "2013: DSTV App",
+    "2014: SuperSport App",
+    "2015: Eskom se push",
+    "2016: Domestly",
+    "2017: OrderIn",
+    "2018: Khulu Ecosystems",
+    "2019: Naked Insurance",
+    "2020: Checkers Sixty 60",
+    "2021: Takealot"
+  ];
+  
+  var applications = winnerlist.sublist(5, 7);
+  
+  print(winnerlist);
+  print("The winners of 2017 and 2018 are $applications");
+  print(winnerlist.length);
+  
+  }
