@@ -1,0 +1,7 @@
+void main() {
+  var name = "Xavier Brooks";
+  var app = "Youtube";
+  var city = "Cape Town";
+  
+  print("$name, $app, $city");
+}
